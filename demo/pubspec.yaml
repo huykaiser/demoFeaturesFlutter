@@ -33,13 +33,15 @@ dependencies:
   device_calendar: ^4.0.2
 
   # get image file from gallery
-  image_picker: ^0.8.4
+  #image_picker: ^0.8.4
 
   # for sharing content
   receive_sharing_intent: ^1.6.7
-  share: ^2.0.0
-  video_player: ^2.5.0
-  chewie: ^1.1.2
+  #share: ^2.0.0
+  #video_player: ^2.5.0
+  #chewie: ^1.1.2
+  contacts_service: ^0.6.3
+  permission_handler: ^11.3.0
 
 
   # The following adds the Cupertino Icons font to your application.
